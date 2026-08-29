@@ -1,7 +1,7 @@
 
 def helloworld():
     print('hello world')
-    print('my name rut')
+    print('my name ruttana')
 
 helloworld()
 helloworld()
